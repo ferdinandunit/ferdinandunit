@@ -18,4 +18,5 @@
 
 <h3 align="left">My Project</h3>
 <h2 align="left">JungleVive</h3>
-![I am GitHub Readme Generator's creator](https://github.com/ferdinandunit/ferdinandunit/blob/main/1.jpg?raw=true)
+![App Screenshot](#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://github.com/ferdinandunit/ferdinandunit/blob/main/1.jpg?raw=true))
