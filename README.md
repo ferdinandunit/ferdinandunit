@@ -19,11 +19,8 @@
 <h2 align="left">My Project</h3>
 <h3 align="left">JungleVive</h3>
 
-###
-
 <div align="left">
   <img height="300" src="https://github.com/ferdinandunit/ferdinandunit/blob/main/1.jpg?raw=true"  />
 </div>
 
-###
 
