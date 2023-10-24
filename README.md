@@ -22,7 +22,6 @@
 
 <div align="left">
   <img height="300" src="https://github.com/ferdinandunit/ferdinandunit/blob/main/pong.jpg?raw=true"  />
-  <a href="https://maber-dev.itch.io/pong2d" target="_blank" rel="noreferrer" />
 </div>
 
 <h3 align="left">JungleVive</h3>
