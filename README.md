@@ -22,12 +22,13 @@
 
 <div align="left">
   <img height="100" src="https://github.com/ferdinandunit/ferdinandunit/blob/main/1.jpg?raw=true"  />
-  <h5 align="left">Highlight:</h5>
-  <h5 align="left">Main Character: Players will control a main character that moves automatically. Player can only use space to move the player up and down.</h5>
-  <h5 align="left">Jumping: Players can use the spacebar to make the character jump upwards and avoid obstacles on the path.</h5>
-  <h5 align="left">Facing Obstacles: As the character moves through the jungle environment, players will encounter various obstacles. Players must master timing and coordination to jump or land when needed to avoid these obstacles.</h5>
-  <h5 align="left">Collecting Coins: One of the main objectives in the game is to collect scattered coins along the track. These coins may be located above obstacles or in paths that require precise jumps to reach. Players need to collect all the coins in order to win the game.</h5>
-  <h5 align="left">Collecting Coins: One of the main objectives in the game is to collect scattered coins along the track. These coins may be located above obstacles or in paths that require precise jumps to reach. Players need to collect all the coins in order to win the game.</h5>
+  <h2>Highlight:</h2>
+    <ul>
+      <li><b>Main Character:</b> Players will control a main character that moves automatically. Player can only use space to move the player up and down.
+      <li><b>Jumping:</b> Players can use the spacebar to make the character jump upwards and avoid obstacles on the path.</li>
+      <li><b>Facing Obstacles:</b> As the character moves through the jungle environment, players will encounter various obstacles. Players must master timing and coordination to jump or land when needed to avoid these obstaclesli></li>
+      <li><b>Collecting Coins:</b> One of the main objectives in the game is to collect scattered coins along the track. These coins may be located above obstacles or in paths that require precise jumps to reach. Players need to collect all the coins in order to win the game.</li>
+    </ul>
 </div>
 
 <h3 align="left">Penasaran</h3>
