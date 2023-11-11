@@ -22,7 +22,7 @@
 
 <div align="left">
   <img height="200" src="https://github.com/ferdinandunit/ferdinandunit/blob/main/1.jpg?raw=true"  />
-  <img height="200" src="https://github.com/ferdinandunit/ferdinandunit/blob/main/HelpTheBuilderGIf.gif?raw=true"  />
+  <img height="200" src="https://github.com/ferdinandunit/ferdinandunit/blob/main/Untitled-min.gif?raw=true"  />
   <h2>Highlight:</h2>
     <ul>
       <li><b>Main Character:</b> Players will control a main character that moves automatically. Player can only use space to move the player up and down.</li>
@@ -35,7 +35,9 @@
 <h2 align="left">Help The Builder</h2>
 
 <div align="left">
-  <img height="200" src="https://github.com/ferdinandunit/ferdinandunit/blob/main/PENASARAN.jpg?raw=true"  />
+  <img height="200" src="https://github.com/ferdinandunit/ferdinandunit/blob/main/Logo.jpg?raw=true"  />
+  <img height="200" src="https://github.com/ferdinandunit/ferdinandunit/blob/main/HelpTheBuilderGIf.gif?raw=true"  />
+
   <h2>Highlight:</h2>
     <ul>
       <li><b>Movement:</b> Players will control the main character using WASD on the keyboard</li>
