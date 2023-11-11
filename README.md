@@ -18,27 +18,39 @@
 
 <h2 align="left">My Project</h3>
 
-<h3 align="left">JungleVive</h3>
+<h2 align="left">JungleVive</h2>
 
 <div align="left">
   <img height="200" src="https://github.com/ferdinandunit/ferdinandunit/blob/main/1.jpg?raw=true"  />
   <h2>Highlight:</h2>
     <ul>
-      <li><b>Main Character:</b> Players will control a main character that moves automatically. Player can only use space to move the player up and down.
+      <li><b>Main Character:</b> Players will control a main character that moves automatically. Player can only use space to move the player up and down.</li>
       <li><b>Jumping:</b> Players can use the spacebar to make the character jump upwards and avoid obstacles on the path.</li>
       <li><b>Facing Obstacles:</b> As the character moves through the jungle environment, players will encounter various obstacles. Players must master timing and coordination to jump or land when needed to avoid these obstacles.</li>
       <li><b>Collecting Coins:</b> One of the main objectives in the game is to collect scattered coins along the track. These coins may be located above obstacles or in paths that require precise jumps to reach. Players need to collect all the coins in order to win the game.</li>
     </ul>
 </div>
 
-<h3 align="left">Penasaran</h3>
+<h2 align="left">Help The Builder</h2>
 
 <div align="left">
-  <img height="100" src="https://github.com/ferdinandunit/ferdinandunit/blob/main/PENASARAN.jpg?raw=true"  />
+  <img height="200" src="https://github.com/ferdinandunit/ferdinandunit/blob/main/PENASARAN.jpg?raw=true"  />
+  <h2>Highlight:</h2>
+    <ul>
+      <li><b>Movement:</b> Players will control the main character using WASD on the keyboard</li>
+      <li><b>Interact:</b> Players can open chests containing items desired by the builder using E on the keyboard.</li>
+      <li><b>Objective:</b> Players must give the item the builder wants using E on the keyboard in order to win the game.</li>
+    </ul>
 </div>
 
 <h3 align="left">Pong2D</h3>
 
 <div align="left">
-  <img height="100" src="https://github.com/ferdinandunit/ferdinandunit/blob/main/pong.jpg?raw=true"  />
+  <img height="200" src="https://github.com/ferdinandunit/ferdinandunit/blob/main/pong.jpg?raw=true"  />
+  <h2>Highlight:</h2>
+    <ul>
+      <li><b>Overview:</b> 2D pong game with glowing background </li>
+      <li><b>Movement:</b> Players will control the board using W and S on the keyboard to go Up and Down</li>
+      <li><b>Objective:</b> Players must score the ball to other players to win points</li>
+    </ul>
 </div>
