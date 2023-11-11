@@ -22,6 +22,7 @@
 
 <div align="left">
   <img height="200" src="https://github.com/ferdinandunit/ferdinandunit/blob/main/1.jpg?raw=true"  />
+  <img height="200" src="https://github.com/ferdinandunit/ferdinandunit/blob/main/HelpTheBuilderGIf.gif?raw=true"  />
   <h2>Highlight:</h2>
     <ul>
       <li><b>Main Character:</b> Players will control a main character that moves automatically. Player can only use space to move the player up and down.</li>
